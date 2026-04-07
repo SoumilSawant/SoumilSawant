@@ -18,7 +18,7 @@
 
 **Frontend**
 - HTML, CSS, JavaScript
-- React (or add your framework)
+- React
 
 **Backend**
 - Node.js / Python (Frappe)
