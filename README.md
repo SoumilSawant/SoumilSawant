@@ -48,6 +48,7 @@
 
 - 🏥 Healthcare App (Frappe-based)
 - 📊 Survey App (Offline + Sync support)
+- 🧩 AI 3x3 Rubik’s Cube Solver
 - ⚡ More coming soon...
 
 ---
